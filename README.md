@@ -1,2 +1,17 @@
 # Java-String-method
-create a java program using all string method ...
+
+/*string substring;
+
+/*string concatenate;
+
+/*string trim;
+
+/*string case (upper and lower);
+
+/*string equals or equalIgnorecase;
+
+/*string lenght;
+
+/*string replace;
+
+/*string contains;
